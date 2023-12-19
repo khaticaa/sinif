@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "assets/image/services2.svg",
+        "name": "Unlimited Compnents",
+        "description": "Unlimited Compnents Combine sections from Olla's vast component library and create beautiful."
+      },
+      {
+        "id": 2,
+        "image": "assets/image/services2.svg",
+        "name": "Unlimited Compnents",
+        "description": "Unlimited Compnents Combine sections from Olla's vast component library and create beautiful."
+      },
+      {
+        "id": 3,
+        "image": "assets/image/services2.svg",
+        "name": "Unlimited Compnents",
+        "description": "Unlimited Compnents Combine sections from Olla's vast component library and create beautiful."
+      }
+   
+    ]}
+    
